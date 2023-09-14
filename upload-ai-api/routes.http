@@ -33,5 +33,5 @@ Content-Type: application/json
 {
   "videoId": "b1523bbf-8dd5-4005-88cb-1a082b7a9aba",
   "temperature": 0.5,
-  "template": "Qual o idioma do texto a seguir: '''{transcription}''' "
+  "prompt ": "Qual o idioma do texto a seguir: '''{transcription}''' "
 }
